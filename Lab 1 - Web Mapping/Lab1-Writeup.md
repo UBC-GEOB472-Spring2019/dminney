@@ -12,3 +12,4 @@ An area of the map that I found particularly intersting was South East Asia, as 
 # Critique
 I recieved constructive criticism from Jason Lin who was very helpful in pointing out what parts of my map should be in the foreground and what parts should be in the background, providing more depth. 
 
+[Link to the full map](https://api.mapbox.com/styles/v1/geogdmin/cjrsvdfmk0ng01gqrp7embz0e.html?fresh=true&title=true&access_token=pk.eyJ1IjoiZ2VvZ2RtaW4iLCJhIjoiY2pyNGhidzVuMDN1MzN5cGhkdWphMmFqaiJ9.ZiS0B_-XXYHuYpIIZH5nfQ#2.85/44.15/-20.41)
