@@ -7,6 +7,8 @@ Visually, muted colours were used for most of the map, with the brightest colour
 
 An area of the map that I found particularly intersting was South East Asia, as the interconnectedness between Asian countries is very evident, however there are also many cable lines connecting to North America and Australia. 
 
+![alt text](https://raw.githubusercontent.com/UBC-GEOB472-Spring2019/dminney-web/master/Lab%201%20-%20Web%20Mapping/Area-of-interest.png)
+
 # Critique
 I recieved constructive criticism from Jason Lin who was very helpful in pointing out what parts of my map should be in the foreground and what parts should be in the background, providing more depth. 
 
