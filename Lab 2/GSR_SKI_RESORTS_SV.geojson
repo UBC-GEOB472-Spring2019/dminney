@@ -1,0 +1,1076 @@
+{
+	"name" : "WHSE_IMAGERY_AND_BASE_MAPS.GSR_SKI_RESORTS_SV",
+	"type" : "FeatureCollection",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3005"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1412453.3280000007, 753441.2199999951 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Clearwater Ski Hill",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "566 Dunn Lake Rd",
+				"LOCALITY" : "Clearwater",
+				"MAILING_ADDRESS" : "566 Dunn Lake Rd, Clearwater, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 51.6368173,
+				"LONGITUDE" : -120.0258254,
+				"PHYSICAL_ADDRESS" : "566 Dunn Lake Rd, Clearwater, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "41",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 41,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1203194.1480000005, 490611.2890000008 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Cypress Bowl",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "6000 Cypress Bowl Rd",
+				"LOCALITY" : "West Vancouver",
+				"MAILING_ADDRESS" : "6000 Cypress Bowl Rd, West Vancouver, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.3956905,
+				"LONGITUDE" : -123.2021823,
+				"PHYSICAL_ADDRESS" : "6000 Cypress Bowl Rd, West Vancouver, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "43",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 43,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1232178.9989999998, 999088.7900000047 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Tabor Mountain Ski Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "17875 Prince George Hwy 16 E",
+				"LOCALITY" : "Ferndale-Tabor",
+				"MAILING_ADDRESS" : "17875 Prince George Hwy 16 E, Ferndale-Tabor, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 53.9431982,
+				"LONGITUDE" : -122.453127,
+				"PHYSICAL_ADDRESS" : "17875 Prince George Hwy 16 E, Ferndale-Tabor, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "67",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 67,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1218152.3509999998, 571269.5320000052 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Blackcomb",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "4545 Blackcomb Way",
+				"LOCALITY" : "Whistler",
+				"MAILING_ADDRESS" : "4545 Blackcomb Way, Whistler, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.1149184,
+				"LONGITUDE" : -122.948621,
+				"PHYSICAL_ADDRESS" : "4545 Blackcomb Way, Whistler, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "40",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 40,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1451506.1059999997, 560626.9509999994 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Crystal Mountain Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : null,
+				"LOCALITY" : "Powder King",
+				"MAILING_ADDRESS" : "Powder King, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.8810732,
+				"LONGITUDE" : -119.7105691,
+				"PHYSICAL_ADDRESS" : "Powder King, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "42",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 42,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1719113.515, 569979.1519999998 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Kimberley Ski & Summer Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : null,
+				"LOCALITY" : "Kimberley",
+				"MAILING_ADDRESS" : "Kimberley, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.6883619,
+				"LONGITUDE" : -116.0047743,
+				"PHYSICAL_ADDRESS" : "Kimberley, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "50",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 50,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809167.0969999993, 1057666.0319999969 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Shames Mountain",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "4544 Lakelse Ave",
+				"LOCALITY" : "Terrace",
+				"MAILING_ADDRESS" : "4544 Lakelse Ave, Terrace, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 54.4844725,
+				"LONGITUDE" : -128.9533636,
+				"PHYSICAL_ADDRESS" : "4544 Lakelse Ave, Terrace, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "65",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 65,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1789496.84, 618005.425999999 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Wapiti Ski Club",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "1000 Natal Rd",
+				"LOCALITY" : "Elkford",
+				"MAILING_ADDRESS" : "1000 Natal Rd, Elkford, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.021685,
+				"LONGITUDE" : -114.9380363,
+				"PHYSICAL_ADDRESS" : "1000 Natal Rd, Elkford, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "69",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 69,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1596715.1209999998, 488521.94599999953 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Red Mountain Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "4300 Red Mountain Rd",
+				"LOCALITY" : "Rossland",
+				"MAILING_ADDRESS" : "4300 Red Mountain Rd, Rossland, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1023786,
+				"LONGITUDE" : -117.8193897,
+				"PHYSICAL_ADDRESS" : "4300 Red Mountain Rd, Rossland, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "63",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 63,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1509175.5439999993, 548839.5740000037 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Big White Ski Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "5340 Big White Rd",
+				"LOCALITY" : "Big White",
+				"MAILING_ADDRESS" : "5340 Big White Rd, Big White, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.7266728,
+				"LONGITUDE" : -118.9286326,
+				"PHYSICAL_ADDRESS" : "5340 Big White Rd, Big White, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "39",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 39,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1633160.7409999997, 502288 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Salmo Ski Hill",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "499 Salmo Ski Hill Rd",
+				"LOCALITY" : "Salmo",
+				"MAILING_ADDRESS" : "499 Salmo Ski Hill Rd, Salmo, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1863972,
+				"LONGITUDE" : -117.3015278,
+				"PHYSICAL_ADDRESS" : "499 Salmo Ski Hill Rd, Salmo, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "64",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 64,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1221773.3690000006, 488002.44400000013 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Mount Seymour",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "1700 Mt Seymour Rd",
+				"LOCALITY" : "North Vancouver",
+				"MAILING_ADDRESS" : "1700 Mt Seymour Rd, North Vancouver, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.36533,
+				"LONGITUDE" : -122.948213,
+				"PHYSICAL_ADDRESS" : "1700 Mt Seymour Rd, North Vancouver, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "53",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 53,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1640910.5729999994, 531981.9929999989 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Whitewater Ski Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "Whitewater Ski Hill Rd",
+				"LOCALITY" : "Nelson",
+				"MAILING_ADDRESS" : "Whitewater Ski Hill Rd, Nelson, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.4429452,
+				"LONGITUDE" : -117.1453923,
+				"PHYSICAL_ADDRESS" : "Whitewater Ski Hill Rd, Nelson, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "72",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 72,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1217735.9730000002, 571086.7639999939 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Whistler Mountain Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "4545 Blackcomb Way",
+				"LOCALITY" : "Whistler",
+				"MAILING_ADDRESS" : "4545 Blackcomb Way, Whistler, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.1134381,
+				"LONGITUDE" : -122.9545477,
+				"PHYSICAL_ADDRESS" : "4545 Blackcomb Way, Whistler, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "70",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 70,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1238192.5550000009, 1230379.1679999987 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Hudson's Hope - Portage Mopuntain",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "22135 Canyon Dr",
+				"LOCALITY" : "Hudsons Hope",
+				"MAILING_ADDRESS" : "22135 Canyon Dr, Hudsons Hope, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 56.0097334,
+				"LONGITUDE" : -122.1704702,
+				"PHYSICAL_ADDRESS" : "22135 Canyon Dr, Hudsons Hope, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "73",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 73,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1442293.3949999993, 505062.0470000021 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Apex Mountain Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "1000 Strayhorse Rd",
+				"LOCALITY" : "Apex",
+				"MAILING_ADDRESS" : "1000 Strayhorse Rd, Apex, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.3904157,
+				"LONGITUDE" : -119.9047316,
+				"PHYSICAL_ADDRESS" : "1000 Strayhorse Rd, Apex, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "38",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 38,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1050188.0069999998, 525284.2889999999 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Mt Washington",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "1 Strathcona Pky",
+				"LOCALITY" : "Mt Washington",
+				"MAILING_ADDRESS" : "1 Strathcona Pky, Mt Washington, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.7415107,
+				"LONGITUDE" : -125.3039175,
+				"PHYSICAL_ADDRESS" : "1 Strathcona Pky, Mt Washington, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "57",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 57,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1271210.633, 903164.2859999929 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Troll Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "7271 Barkerville Hwy",
+				"LOCALITY" : "Cottonwood",
+				"MAILING_ADDRESS" : "7271 Barkerville Hwy, Cottonwood, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 53.0660023,
+				"LONGITUDE" : -121.942005,
+				"PHYSICAL_ADDRESS" : "7271 Barkerville Hwy, Cottonwood, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "68",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 68,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1721487.186, 643404.4520000014 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Fairmont Hot Springs Ski Hill",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "5225 Fairmont Resort Rd",
+				"LOCALITY" : "Fairmont Hot Springs",
+				"MAILING_ADDRESS" : "5225 Fairmont Resort Rd, Fairmont Hot Springs, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.3387641,
+				"LONGITUDE" : -115.8265548,
+				"PHYSICAL_ADDRESS" : "5225 Fairmont Resort Rd, Fairmont Hot Springs, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "44",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 44,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1210792.786999999, 488295.1180000007 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Grouse Mountain",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "6400 Nancy Greene Way",
+				"LOCALITY" : "North Vancouver",
+				"MAILING_ADDRESS" : "6400 Nancy Greene Way, North Vancouver, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.3721144,
+				"LONGITUDE" : -123.0989765,
+				"PHYSICAL_ADDRESS" : "6400 Nancy Greene Way, North Vancouver, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "46",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 46,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 917867.9030000006, 1086144.2409999967 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Hudson Bay Mountain",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "339 Prairie Rd",
+				"LOCALITY" : "Smithers",
+				"MAILING_ADDRESS" : "339 Prairie Rd, Smithers, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 54.7686192,
+				"LONGITUDE" : -127.2796617,
+				"PHYSICAL_ADDRESS" : "339 Prairie Rd, Smithers, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "49",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 49,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 974876.9139999994, 578176.4609999983 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Mount Cain Alpine Park",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "6450 Chatham Ave",
+				"LOCALITY" : "Port Hardy",
+				"MAILING_ADDRESS" : "6450 Chatham Ave, Port Hardy, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.2187059,
+				"LONGITUDE" : -126.3521018,
+				"PHYSICAL_ADDRESS" : "6450 Chatham Ave, Port Hardy, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "54",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 54,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1690636.8869999999, 652354.8499999978 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Panorama Mountain Village",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "1921 Panorama Dr",
+				"LOCALITY" : "Panorama",
+				"MAILING_ADDRESS" : "1921 Panorama Dr, Panorama, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.4572978,
+				"LONGITUDE" : -116.2386686,
+				"PHYSICAL_ADDRESS" : "1921 Panorama Dr, Panorama, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "59",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 59,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1540949.184, 483122.841 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Phoenix Mountain Ski Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "8000 Phoenix Ski Hill Rd",
+				"LOCALITY" : "Greenwood",
+				"MAILING_ADDRESS" : "8000 Phoenix Ski Hill Rd, Greenwood, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1092526,
+				"LONGITUDE" : -118.5857632,
+				"PHYSICAL_ADDRESS" : "8000 Phoenix Ski Hill Rd, Greenwood, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "60",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 60,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1295206.7649999994, 493341.21199999657 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Sasquatch Mountain Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "20955 Hemlock Valley Rd",
+				"LOCALITY" : "Hemlock Valley",
+				"MAILING_ADDRESS" : "20955 Hemlock Valley Rd, Hemlock Valley, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.3801115,
+				"LONGITUDE" : -121.9354366,
+				"PHYSICAL_ADDRESS" : "20955 Hemlock Valley Rd, Hemlock Valley, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "48",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 48,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1493212.598, 483191.31499999855 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Mount Baldy Ski Area",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "2680 Mount Baldy Rd",
+				"LOCALITY" : "Bridesville",
+				"MAILING_ADDRESS" : "2680 Mount Baldy Rd, Bridesville, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.1528266,
+				"LONGITUDE" : -119.23578499999999,
+				"PHYSICAL_ADDRESS" : "2680 Mount Baldy Rd, Bridesville, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "52",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 52,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1115606.0260000005, 1058802.7570000049 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Murray Ridge Ski Area",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "7904 Chalet Dr",
+				"LOCALITY" : "Fort St James",
+				"MAILING_ADDRESS" : "7904 Chalet Dr, Fort St James, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 54.5172275,
+				"LONGITUDE" : -124.2097586,
+				"PHYSICAL_ADDRESS" : "7904 Chalet Dr, Fort St James, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "58",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 58,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1788474.0809999993, 554952.3209999986 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Fernie Alpine Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "5339 Fernie Ski Hill Rd",
+				"LOCALITY" : "West Fernie",
+				"MAILING_ADDRESS" : "5339 Fernie Ski Hill Rd, West Fernie, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.4628444,
+				"LONGITUDE" : -115.0872374,
+				"PHYSICAL_ADDRESS" : "5339 Fernie Ski Hill Rd, West Fernie, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "45",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 45,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1597896.1139999991, 605418.620000002 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Summit Lake Ski Area",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "2815 Hwy 6",
+				"LOCALITY" : "Nakusp",
+				"MAILING_ADDRESS" : "2815 Hwy 6, Nakusp, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.1454638,
+				"LONGITUDE" : -117.6143793,
+				"PHYSICAL_ADDRESS" : "2815 Hwy 6, Nakusp, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "74",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 74,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1269670.5929999996, 996401.7070000004 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Purden Ski Village",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "3000 Purden Ski Hill Rd",
+				"LOCALITY" : "Purden",
+				"MAILING_ADDRESS" : "3000 Purden Ski Hill Rd, Purden, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 53.9009836,
+				"LONGITUDE" : -121.8839734,
+				"PHYSICAL_ADDRESS" : "3000 Purden Ski Hill Rd, Purden, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "62",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 62,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1371616.9110000005, 463675.32799999975 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Manning Park",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "7500 Hwy 3",
+				"LOCALITY" : "Manning Park West",
+				"MAILING_ADDRESS" : "7500 Hwy 3, Manning Park West, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 49.0692465,
+				"LONGITUDE" : -120.9159271,
+				"PHYSICAL_ADDRESS" : "7500 Hwy 3, Manning Park West, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "51",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 51,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1548852.0379999992, 690946.824 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Revelstoke Mountain Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "2950 Camozzi Rd",
+				"LOCALITY" : "Revelstoke",
+				"MAILING_ADDRESS" : "2950 Camozzi Rd, Revelstoke, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.9592023,
+				"LONGITUDE" : -118.1642368,
+				"PHYSICAL_ADDRESS" : "2950 Camozzi Rd, Revelstoke, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "55",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 55,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1325235.6619999995, 776780.1410000017 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Mt Timothy Ski Hill",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "318 Birch Pl",
+				"LOCALITY" : "Forest Grove",
+				"MAILING_ADDRESS" : "318 Birch Pl, Forest Grove, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 51.9047839,
+				"LONGITUDE" : -121.2622874,
+				"PHYSICAL_ADDRESS" : "318 Birch Pl, Forest Grove, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "56",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 56,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1427567.3639999998, 669841.9730000012 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Sun Peaks Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "1280 Alpine Rd",
+				"LOCALITY" : "Sun Peaks",
+				"MAILING_ADDRESS" : "1280 Alpine Rd, Sun Peaks, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.8775256,
+				"LONGITUDE" : -119.9118599,
+				"PHYSICAL_ADDRESS" : "1280 Alpine Rd, Sun Peaks, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "75",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 75,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1413075.2770000002, 651357.8650000002 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Harper Mountain",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "2580 Harper Mountain Rd",
+				"LOCALITY" : "Paul Lake",
+				"MAILING_ADDRESS" : "2580 Harper Mountain Rd, Paul Lake, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.7230743,
+				"LONGITUDE" : -120.138992,
+				"PHYSICAL_ADDRESS" : "2580 Harper Mountain Rd, Paul Lake, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "47",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 47,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1493074.9169999992, 617927.0070000021 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Silver Star Mountain Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "123 Shortt St",
+				"LOCALITY" : "Vernon",
+				"MAILING_ADDRESS" : "123 Shortt St, Vernon, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 50.3590309,
+				"LONGITUDE" : -119.0569966,
+				"PHYSICAL_ADDRESS" : "123 Shortt St, Vernon, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "66",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 66,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1622092.0480000007, 737604.7099999972 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Kicking Horse Mountian Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "1500 Kicking Horse Trail",
+				"LOCALITY" : "Golden",
+				"MAILING_ADDRESS" : "1500 Kicking Horse Trail, Golden, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 51.2973743,
+				"LONGITUDE" : -117.0451754,
+				"PHYSICAL_ADDRESS" : "1500 Kicking Horse Trail, Golden, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "71",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 71,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1214322.0669999993, 1157164.0230000075 ]
+			},
+			"properties" : {
+				"FACILITY_NAME" : "Powder King Mountain Resort",
+				"KEYWORDS" : "recreation; ski; ski resort",
+				"STREET_ADDRESS" : "55581 Powder King Rd",
+				"LOCALITY" : "Pine Pass",
+				"MAILING_ADDRESS" : "55581 Powder King Rd, Pine Pass, BC",
+				"WEBSITE_URL" : null,
+				"IMAGE_URL" : null,
+				"LATITUDE" : 55.365527,
+				"LONGITUDE" : -122.609943,
+				"PHYSICAL_ADDRESS" : "55581 Powder King Rd, Pine Pass, BC",
+				"DATE_UPDATED" : "20181001",
+				"SITE_GEOCODED_IND" : null,
+				"SOURCE_DATA_ID" : "61",
+				"CUSTODIAN_ORG_DESCRIPTION" : "Ministry of Forest, Lands and Natural Resource Operations - GeoBC ",
+				"BUSINESS_CATEGORY_CLASS" : "skiingFacilities",
+				"BUSINESS_CATEGORY_DESCRIPTION" : "Skiing Facilities",
+				"OCCUPANT_TYPE_DESCRIPTION" : "Skiing Facilities",
+				"SEQUENCE_ID" : 61,
+				"SE_ANNO_CAD_DATA" : null
+			}
+		}
+	]
+}
