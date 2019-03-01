@@ -5,10 +5,10 @@ Although ski resorts provide very detailed and artistic maps of the mountain and
 
 The processes used to produce the map were somewhat similar to the interactive UBC maps produced earlier this semester. First, the ski runs themselves were not available online, so I decided to create them on www.geojson.io, which allowed for further customization such as adding names to each line and difficulty ratings. In North America, ski resorts typically use the following colour scheme:
 
-Easy - Green
-Moderate - Blue
-Hard - Black Diamond
-Expert - Double Black Diamond
+: Easy - Green
+: Moderate - Blue
+: Hard - Black Diamond
+: Expert - Double Black Diamond
 
 ![alt text](https://raw.githubusercontent.com/UBC-GEOB472-Spring2019/dminney-web/master/Lab%202/SkiArea.png)
 
