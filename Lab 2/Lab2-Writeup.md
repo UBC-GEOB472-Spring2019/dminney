@@ -10,7 +10,7 @@ Moderate - Blue
 Hard - Black Diamond
 Expert - Double Black Diamond
 
-
+![alt text](https://raw.githubusercontent.com/UBC-GEOB472-Spring2019/dminney-web/master/Lab%202/SkiArea.png)
 
 However, I thought it would be more intuitive to the viewer if the colour grade was instead green, blue, red, and black, going from easiest to hardest. 
 
