@@ -12,7 +12,7 @@ The processes used to produce the map were somewhat similar to the interactive U
 
 ![alt text](https://raw.githubusercontent.com/UBC-GEOB472-Spring2019/dminney-web/master/Lab%202/SkiArea.png)
 
-However, I thought it would be more intuitive to the viewer if the colour grade was instead green, blue, red, and black, going from easiest to hardest. 
+However, I thought it would be more intuitive to the viewer if the colour grade was instead green, blue, red, and black, going from easiest to hardest. This colour scheme is commonly used at European ski resorts.
 
 A button that allows the viewer to see all the ski runs is used to provide a general overview of what Cypress Resort has to offer. More importantly, a search button allows the viewer to see the runs categorized by difficulty, which is useful in allowing the user to cater the map to their skiing/snowboarding ability. A background map with contour lines was used to provide depth in terms of elevation. 
 
