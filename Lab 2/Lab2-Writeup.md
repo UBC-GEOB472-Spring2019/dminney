@@ -19,4 +19,4 @@ A button that allows the viewer to see all the ski runs is used to provide a gen
 ## What's Next?
 Although the map contains some useful interactivity, there are many ways that it can be built upon and elevated to the next level. For example, being able to see one's current location on the map would be useful if this was implemented into an app and you were to use it on the mountain. Also, being able to add ski runs of multiple difficulties would add an increased amount of interactivity. 
 
-<iframe src="https://editor.p5js.org/dminney2001@gmail.com/embed/8oSKB-2JG"></iframe> 
+[Link to the full map](https://editor.p5js.org/dminney2001@gmail.com/full/8oSKB-2JG)
