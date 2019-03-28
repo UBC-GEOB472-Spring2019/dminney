@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+
+<html> 
+  
+  <head>
+    <script src="https://aframe.io/releases/0.8.2/aframe.min.js"> </script>
+    <script src="https://unpkg.com/aframe-animation-component@^5.1.2/dist/aframe-animation-component.min.js"></script>
+  </head>
+  
+  <body>
+    
+     <a-scene background="color: #50b1ec"
+              fog="type: linear; color: #AAB; far: 30; near: 0">
+       <a-assets>
+       <a-asset-item id="stone" src="https://cdn.glitch.com/a68d3fcc-9cd2-471c-880f-69f94f3d57f7%2Fstonehenge.gltf?1553657086658" response-type="arraybuffer"></a-asset-item>
+       <a-asset-item id="sign" src="https://cdn.glitch.com/a68d3fcc-9cd2-471c-880f-69f94f3d57f7%2FSign.glb?1553394316005" response-type="arraybuffer"></a-asset-item>
+       </a-assets>
+       <a-entity position="27 47 128" rotation="-21 14 -3.7" camera wasd-controls look-controls animation="property:position; to: 0 3 0; dur: 5000"></a-entity>
+       
+       
+       
+       <a-sky color="#afceff"> </a-sky>
+       <a-camera>
+         <a-cursor color="#eaf2ff"/>
+       </a-camera>
+       
+        <a-gltf-model src="#stone" position="0 25 -23"></a-gltf-model>
+       
+        <a-gltf-model src="#sign" position="6.22027 0.6386 -7.43682" scale="0.49 0.32 0.09" gltf-model="#sign">
+          <a-text value="Stonehenge is a man made stone 
+                         circle made over 5000 years ago!" position="-1.414 2.886 0.246" color="#d1d1d1" text="width:4.17" visible=""></a-text>
+        </a-gltf-model>
+       
+        <a-gltf-model src="#sign" position="-5.59907 0.6386 -7.43682" scale="0.49 0.32 0.09" rotation="0 -25 0" gltf-model="#sign">
+          <a-text value="Historians do not yet know how 
+                         the stones were placed" position="-1.414 2.886 0.246" color="#d1d1d1" text="width:4.17" visible=""></a-text>
+        </a-gltf-model>
+      
+        <a-gltf-model src="#sign" position="12.35322 0.6386 -12.62808" scale="0.49 0.32 0.09" rotation="0 80 0" gltf-model="https://cdn.glitch.com/a68d3fcc-9cd2-471c-880f-69f94f3d57f7%2FSign.glb?1553394316005">
+          <a-text value="The site was created in 
+                         several stages,
+                         with construction starting in 2500 BC" position="0.01353 2.886 0.45875" color="#d1d1d1" text="width:4.17;align:center" visible=""></a-text>
+        </a-gltf-model>
+       
+        <a-gltf-model src="#sign" position="12.20859 0.6386 -33.86667" scale="0.49 0.32 0.09" rotation="0 140 0" gltf-model="https://cdn.glitch.com/a68d3fcc-9cd2-471c-880f-69f94f3d57f7%2FSign.glb?1553394316005">
+          <a-text value="A circle of 56 pits
+                         known as Aubery Holes
+                         sit inside the structure" position="0.01353 2.886 0.45875" color="#d1d1d1" text="width:4.17;align:center" visible=""></a-text>
+        </a-gltf-model>
+       
+        <a-gltf-model src="#sign" position="-16.18968 1.26825 -31.51937" scale="0.49 0.32 0.09" rotation="0 -154.49806945702647 0" gltf-model="https://cdn.glitch.com/a68d3fcc-9cd2-471c-880f-69f94f3d57f7%2FSign.glb?1553394316005">
+          <a-text value="Legend has it that
+                         the stone came from a 
+                         mountain in Ireland and were
+                         moved here by a wizard named
+                         Merlin" position="0.01353 2.886 0.45875" color="#d1d1d1" text="width:4.17;align:center" visible=""></a-text>
+        </a-gltf-model>
+       
+        <a-gltf-model src="#sign" position="-20.09063 1.15362 -17.90934" scale="0.49 0.32 0.09" rotation="0 -92.0577019014645 0" gltf-model="https://cdn.glitch.com/a68d3fcc-9cd2-471c-880f-69f94f3d57f7%2FSign.glb?1553394316005">
+          <a-text value="Many scientists believe
+                         that Stonehenge was used
+                         as a calendar connected to 
+                         studying the stars" position="0.01353 2.886 0.45875" color="#d1d1d1" text="width:4.17;align:center" visible=""></a-text>
+        </a-gltf-model>
+       
+      <a-plane position="-0.18936 2.30639 -3.48693" scale="2.75 1 1" color="#9b9b9b" opacity="0.5" material="" geometry="height:0.62">
+         <a-text value="Welcome to Stonehenge!" position="-0.34802 0.03681 0.00847" color="black" width="4" text="" scale="0.39 1.49 0.99"></a-text>
+         <a-plane position="0 -0.68813 0" scale="2.75 1 1" color="#9b9b9b" opacity="0.85" material="" geometry="height:0.62;width:0.4">
+             <a-text value="Walk around the site to explore
+                            some interesting facts about stonehenge" position="0.02196 0.03681 0.00847" color="black" width="1" text="anchor:center;width:0.96;color:black;wrapCount:40.08;align:center" scale="0.39 1.49 0.99">
+           <a-event name="mouseenter" color="red"></a-event>  
+           </a-text>
+        </a-plane> 
+       </a-plane>
+       
+       
+     </a-scene>
+    
+     
+  </body>
+  
+</html>
