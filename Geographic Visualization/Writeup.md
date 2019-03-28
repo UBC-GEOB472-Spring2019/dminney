@@ -11,7 +11,7 @@ My idea to create a 'virtual reality tour' stemmed from the idea of the Stanley 
 The models for stonehenge and the signs used were found on Sketchfab.
 
 [Stonehenge Model](https://sketchfab.com/3d-models/stonehenge-dji-mavic-jaymie-james-0947e454c8ad491593ce867f3d29169e)
-[Sign Model][https://sketchfab.com/3d-models/sign-592ba375a7194290affed512a06c562a]
+[Sign Model](https://sketchfab.com/3d-models/sign-592ba375a7194290affed512a06c562a)
 
 
 ### Difficulties
