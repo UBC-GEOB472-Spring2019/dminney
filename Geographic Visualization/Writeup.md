@@ -18,6 +18,7 @@ The models for stonehenge and the signs used were found on Sketchfab.
 ### Difficulties
 There were however some problems, as the models used were highly detailed and although usable in A-Frame, they would create a laggy and un-pleasant expereince. To solve this, the model was downloaded in OBJ form and opened up in Meshlab. Then, the polygons were reduced using the following: 
 **Filters → Remeshing, Simplification and Reconstruction → Simplification: Quadric Edge Collapse Decimation (with texture)** 
+
 After reducing the amount of faces by a significant amount, the file was saved as OBJ. The next problem was converting OBJ to GLTF for use in A-frame. Although there were some websites that provide an online conversion tool, none of them were able to retain the textures. I was able to convert the file using [obj2gltf](https://github.com/AnalyticalGraphicsInc/obj2gltf) which is programmed using Node.js. After reducing the amount of polygons, the reduction in lag was noticeable, without loosing too much detail and texture of the model itself. 
 
 ### Room for Improvement
